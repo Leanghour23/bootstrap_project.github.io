@@ -1,0 +1,4 @@
+Technology
+
+- bootstrap
+- aos (library JS) animation
